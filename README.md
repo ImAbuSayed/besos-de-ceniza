@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-ceniza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Besos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-ceniza/) |
+| **Get License** | [Official Music Licensing for Besos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-ceniza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
