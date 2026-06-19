@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Besos de
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-19T22:11:04.368674 | `v1` | `4dc249e2413da45cb85590504f97d8a75a73e6ca7b6f77589a723060c5b206ee` | `ce5f0e37cf84c0cb60bf60e3666721014d613fb0e459292936887c243b5d63d7` | `2026-06-19_besos-de-ceniza-v1.txt` |
+| 2026-06-19T22:12:06.029270 | `v2` | `517f9621a275ffe55a7013be834a5477bae029301afda7bcf559369b893c89a9` | `916b24df42fb7b1123c2a546cd70df467e3920c4f1d2318054fe97eccb0e30c6` | `2026-06-19_besos-de-ceniza-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-ceniza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Besos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-ceniza/) |
+| **Get License** | [Get a Licensing Quote for Besos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-ceniza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -109,8 +109,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `4dc249e2413da45cb85590504f97d8a75a73e6ca7b6f77589a723060c5b206ee` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `517f9621a275ffe55a7013be834a5477bae029301afda7bcf559369b893c89a9` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
