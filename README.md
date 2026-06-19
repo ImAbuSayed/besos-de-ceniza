@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-ceniza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Besos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-ceniza/) |
+| **Get License** | [License this song: Besos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-ceniza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Besos de ceniza en mi piel se quedan
+> Fuego que se apaga pero no me deja
+> Tu boca me llama como una promesa
+> Esta noche el ritmo nos lleva y nos deja
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
