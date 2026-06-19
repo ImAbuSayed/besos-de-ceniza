@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de ceniza
+
+This log tracks the cryptographic history and versioning for the song **Besos de ceniza** (besos-de-ceniza).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T22:11:04.368674 | `v1` | `4dc249e2413da45cb85590504f97d8a75a73e6ca7b6f77589a723060c5b206ee` | `ce5f0e37cf84c0cb60bf60e3666721014d613fb0e459292936887c243b5d63d7` | `2026-06-19_besos-de-ceniza-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
